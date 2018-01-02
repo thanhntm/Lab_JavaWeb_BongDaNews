@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/manage" >
+    <Resource name="BongdanewsDB" auth="Container" type="javax.sql.DataSource" 
+    username="sa" password="3864127640881" 
+    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" url="jdbc:sqlserver://;databaseName=Bongdanews" maxActive="10" maxIdle="4"/>
+</Context>
